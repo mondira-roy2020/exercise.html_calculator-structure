@@ -4,10 +4,10 @@
 * **Purpose** - To gain familiarity with basic HTML tags, tables, and CSS styling
 * **Description**
     * The objective of this assignment is to create a calculator which resembles the calculator image below.
-    * Modify the `style.css` file to declare the styles in the `CSS` image below.
+    * <img src ="./img/calculator.html.png">
 
-<img src ="./img/calculator.html.png">
-<img src ="./img/style.css.png">
+    * Modify the `style.css` file to declare the styles in the `CSS` image below.
+    * <img src ="./img/style.css.png">
 
 
 
